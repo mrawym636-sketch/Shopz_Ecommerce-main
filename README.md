@@ -38,7 +38,6 @@ You can test payments using these official PayPal sandbox cards:
 ## Setup (Local Development)
 
 ```bash
-git clone https://github.com/anupks2510/Shopz_Ecommerce.git
 cd Shopz_Ecommerce
 python -m venv venv
 venv\Scripts\activate
